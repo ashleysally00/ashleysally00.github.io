@@ -3,13 +3,13 @@
 ### by ashleysally00
 
 ## Games
-- Face Masks Click and Drag Game
-  - [Play the game online here!](https://ashleysally00.github.io/face-mask-game/)
-  - [Read source code for the game here](https://github.com/ashleysally00/face-mask-game)
-- Decorating Click and Drag Game
-  - [Play the game online here!](https://ashleysally00.github.io/DecoratingGame/)
-  - [Read source code for the game here](https://github.com/ashleysally00/DecoratingGame)
-- [Let's Go Driving: a Speed-Typing Game](https://github.com/ashleysally00/lets-go-driving-speed-typing-game)
+- Play the Face Masks Click and Drag Game [online here!](https://ashleysally00.github.io/face-mask-game/)
+- [Read source code here](https://github.com/ashleysally00/face-mask-game)  
+- Play the Decorating Click and Drag Game [online here!](https://ashleysally00.github.io/DecoratingGame/)
+- [Read source code here](https://github.com/ashleysally00/DecoratingGame)  
+- Play Let's Go Driving a Quote Typing Game [online here!](https://ashleysally00.github.io/lets-go-driving-speed-typing-game/)
+- [Read source code here](https://github.com/ashleysally00/lets-go-driving-speed-typing-game) 
+
 
 ## Simple Register Login App
 
