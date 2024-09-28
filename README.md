@@ -3,9 +3,12 @@
 ### by ashleysally00
 
 ## Games
-
-- [Face Masks Click and Drag Game 1](https://github.com/ashleysally00/FaceMaskGame)
-- [Decorate Your Room Click and Drag Game 2](https://github.com/ashleysally00/DecoratingGame)
+- Face Masks Click and Drag Game
+  - [Play the game online here!](https://ashleysally00.github.io/face-mask-game/)
+  - [Read source code for the game here](https://github.com/ashleysally00/face-mask-game)
+- Decorating Click and Drag Game
+  - [Play the game online here!](https://ashleysally00.github.io/DecoratingGame/)
+  - [Read source code for the game here](https://github.com/ashleysally00/DecoratingGame)
 - [Let's Go Driving: a Speed-Typing Game](https://github.com/ashleysally00/lets-go-driving-speed-typing-game)
 
 ## Simple Register Login App
