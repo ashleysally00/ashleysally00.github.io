@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: black;
+  background-color: white;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.project-group {
+  margin-bottom: 30px;
+}
+
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
