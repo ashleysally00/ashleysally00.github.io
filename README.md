@@ -3,12 +3,16 @@
 ### by ashleysally00
 
 ## Games
+- Play Let's Go Driving a Quote Typing Game [online here!](https://ashleysally00.github.io/lets-go-driving-speed-typing-game/)
+- [textable link](https://tinyurl.com/driving-by-Ashley) so you can send it to someone else if they want to play
+- [Read source code here](https://github.com/ashleysally00/lets-go-driving-speed-typing-game) 
+
+
 - Play the Face Masks Click and Drag Game [online here!](https://ashleysally00.github.io/face-mask-game/)
 - [Read source code here](https://github.com/ashleysally00/face-mask-game)  
 - Play the Decorating Click and Drag Game [online here!](https://ashleysally00.github.io/DecoratingGame/)
 - [Read source code here](https://github.com/ashleysally00/DecoratingGame)  
-- Play Let's Go Driving a Quote Typing Game [online here!](https://ashleysally00.github.io/lets-go-driving-speed-typing-game/)
-- [Read source code here](https://github.com/ashleysally00/lets-go-driving-speed-typing-game) 
+
 
 
 ## Simple Register Login App
