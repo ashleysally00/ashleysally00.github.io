@@ -6,7 +6,8 @@
 
 - **Let's Go Driving: A Quote Typing Game**
   - [Play online here!](https://ashleysally00.github.io/lets-go-driving-speed-typing-game/)
-  - [Shareable link](https://tinyurl.com/driving-by-Ashley) to send to others
+  - A tiny URL for easy sharing:
+  **[https://tinyurl.com/driving-by-Ashley](https://tinyurl.com/driving-by-Ashley)**
   - [View source code](https://github.com/ashleysally00/lets-go-driving-speed-typing-game)
 
 - **Face Masks: Click and Drag Game**
