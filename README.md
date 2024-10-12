@@ -31,6 +31,10 @@
 
 [McDonalds Drive-Thru Analysis and ML with Maps](https://github.com/ashleysally00/McDonaldsDrive-ThroughAnalysisAndMachineLearningModeling)
 
+## Gif Resizer
+
+[Downloadable Gif Resizer with Example](https://github.com/ashleysally00/keep_flying_gif_resize_project)
+
 ---
 
 Created by Ashley Rice  
