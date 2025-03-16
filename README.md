@@ -1,5 +1,5 @@
 # Blog
-<p><a href="blog.html">Knowledge Share Blog</a></p>
+<p><a href="blog.md">Knowledge Share Blog</a></p>
 
 # Projects   	 
 
