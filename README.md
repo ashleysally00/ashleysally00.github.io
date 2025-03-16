@@ -1,6 +1,7 @@
-# My Project Highlights   	
-### :sunny:  :blue_book: 
-### by ashleysally00
+# Blog
+<p><a href="blog.html">Knowledge Share Blog</a></p>
+
+# Projects   	 
 
 ## Games
 
