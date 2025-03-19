@@ -19,13 +19,12 @@ I recorded a screencast demonstrating how to extract structured book data from i
 ## **Images Used in This Project**
 The following images from **Unsplash** were used in the experiment:
 
-- 📸 *Photo by Brett Jordan on Unsplash*
-  
-![Books](https://raw.githubusercontent.com/ashleysally00/ashleysally00.github.io/main/Books1.jpg)
-`
-  - `Books2-brett-jordan-qXrA_qN3WvM-unsplash.jpg`
+- 📸 *Photos by Brett Jordan on Unsplash*
 
----
+  <img src="https://raw.githubusercontent.com/ashleysally00/ashleysally00.github.io/main/books1.png" alt="Books" width="300px">
+
+
+
 
 ## **How I Used Google AI Studio for OCR and Structured Data Extraction**
 
