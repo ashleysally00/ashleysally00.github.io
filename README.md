@@ -1,5 +1,6 @@
 # Blog
-<p><a href="blog.md">Knowledge Share Blog</a></p>
+
+[Knowledge Share Blog](https://ashleysally00.github.io/blog.html)
 
 # Projects   	 
 
