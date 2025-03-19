@@ -8,7 +8,7 @@ tags: [Gemini 1.5 Pro, Google AI Studio, JSON, CSV, Data Extraction]
 
 ## **Extracting Book Data from Images with Gemini 1.5 Pro**
 
-This screencast demonstrates the use of Google AI Studio and Gemini 1.5 Pro to extract structured book data from bookshelf photos. By leveraging OCR (Optical Character Recognition) and AI-powered data extraction, you can convert book titles and authors into structured JSON format, then transform it into CSV for easy spreadsheet use. 
+This screencast demonstrates the use of Google AI Studio and Gemini 1.5 Pro to extract structured book data from bookshelf photos. By leveraging OCR (Optical Character Recognition) and AI-powered data extraction, you can convert book titles and authors into structured JSON format, then transform it into CSV for easy spreadsheet use. You can then apply this to other things.
 
 ## **Watch the Screencast**
 
