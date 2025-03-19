@@ -13,7 +13,7 @@
   - [View source code](https://github.com/ashleysally00/lets-go-driving-speed-typing-game)
 
 - **Face Masks: Click and Drag Game**
-  - [Play online here!](https://ashleysally00.github.io/face-mask-game/)
+  - [Click here to play the game!](https://ashleysally00.github.io/FaceMaskGame_for_browser/)
   - [View source code](https://github.com/ashleysally00/face-mask-game)
 
 - **Decorating: Click and Drag Game**
