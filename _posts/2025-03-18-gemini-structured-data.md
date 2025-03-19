@@ -183,11 +183,14 @@ Convert JSON to CSV for easier spreadsheet use.
 Apply this method to real-world applications in retail, logistics, and healthcare.
 This is just one example of how AI can automate tedious tasks and improve efficiency in data processing. AI is changing every day...
 
-Next Steps
+### Next Steps
 Try extracting structured data using Google AI Studio.
 Convert the JSON output into CSV for analysis.
-Think about how this method can be applied to other industries.
-Let me know if you try it! ⭐
+Think about how this method can be applied to other industries.🧠 
+<img src="https://github.com/user-attachments/assets/091eb436-1f67-4163-b26e-8ed46a89a27f" width="20" height="20">
+
+
+Let me know if you try it, or if you figure something else out!! ⭐
 
 
 
