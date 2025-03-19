@@ -1,2 +1,12 @@
+
 title: Knowledge Share Blog
 theme: minima
+baseurl: ""
+url: "https://ashleysally00.github.io"
+
+plugins:
+  - jekyll-feed
+
+collections:
+  posts:
+    output: true
