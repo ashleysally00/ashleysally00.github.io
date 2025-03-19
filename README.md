@@ -14,7 +14,7 @@
 
 - **Face Masks: Click and Drag Game**
   - [Click here to play the game!](https://ashleysally00.github.io/FaceMaskGame_for_browser/)
-  - [View source code](https://https://github.com/ashleysally00/FaceMaskGame_for_browser)
+  - [View Source Code](https://github.com/ashleysally00/FaceMaskGame_for_browser)
 
 - **Decorating: Click and Drag Game**
   - [Play online here!](https://ashleysally00.github.io/DecoratingGame/)
