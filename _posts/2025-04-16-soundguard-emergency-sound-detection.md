@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>My First Kaggle Competition: Gen AI Intensive Course Capstone 2025Q1 – Learning About Agents and the Expanding Capabilities of Generative AI</title>
