@@ -1,9 +1,8 @@
+---
+title: "My First Kaggle Competition: Gen AI Intensive Course Capstone 2025Q1 – Learning About Agents and the Expanding Capabilities of Generative AI"
+layout: post
+---
 
-<html>
-<head>
-  <title>My First Kaggle Competition: Gen AI Intensive Course Capstone 2025Q1 – Learning About Agents and the Expanding Capabilities of Generative AI</title>
-</head>
-<body>
   <h2>My First Kaggle Competition: Gen AI Intensive Course Capstone 2025Q1 – Learning About Agents and the Expanding Capabilities of Generative AI</h2>
   <p><a href="blog.html">Back to Blog</a></p>
 
@@ -71,5 +70,4 @@
 
   <h3>Integration with GitHub</h3>
   <p>We pushed the Kaggle notebook to GitHub. This way, we could store and manage the codebase for the entire project in a GitHub repo. Next, we integrated Hugging Face Spaces with GitHub. This links the repository to the demo for real-time functionality. That means Github can manage the backend logic. The backend logic is important. Here, it includes sound classification and the chatbot's responses. New changes in GitHub are automatically reflected in the Hugging Face space. This keeps the chatbot updated both now and in the future.</p>
-</body>
-</html>
+
