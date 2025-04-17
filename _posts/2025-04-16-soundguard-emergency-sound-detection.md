@@ -62,7 +62,7 @@ layout: post
   <p>We wanted to create a working interface where users could interact with the chatbot. We knew that first we needed to upload the audio files to storage. That way, they could be accessed and streamed in real time. We decided to use Google Cloud Storage (GCS) to host the audio files from the ESC-50 dataset.</p>
 
   <h3>Storing Audio Files in Google Cloud Storage</h3>
-  <p>The ESC-50 dataset consists of 2,000 audio recordings, each 5 seconds long, covering 50 different sound events. For our project, we focused on a subset of the dataset containing emergency-related sounds, including sirens, glass breaking, and alarms.</p>
+  <p>The ESC-50 dataset consists of 2,000 audio recordings, each 5 seconds long, covering 50 different sound events.</p>
   <p>We focused on a subset of the dataset containing emergency-related sounds. This included sirens, glass breaking, and alarms. So, we filtered the dataset to only include these relevant categories. Then we exported the audio file metadata into a CSV file, which included the URLs for each file in the subset. We then created a GCS bucket to store these files. We uploaded each file separately and linked to their corresponding URLs. This ensured easy access for the live demo.</p>
 
   <h3>Building the Demo with Gradio on Hugging Face</h3>
