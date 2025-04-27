@@ -41,7 +41,7 @@ data = load_csv(filename)
 print(data)
 ```
 
-This is a basic example where we load a CSV file step by step: open the file, read it row by row, and store the data in a list. It’s simple and works great for smaller tasks that don’t require complex structures.
+This is a basic example where we load a CSV file step by step: open the file, read it row by row, and store the data in a list. It’s simple and works great for smaller tasks that don’t require complex structures. I had done this one a lot! But i had not thought about what it meant.
 
 ## But You've Probably Also Used Python as OOP
 
