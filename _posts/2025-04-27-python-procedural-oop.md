@@ -5,8 +5,6 @@ layout: post
 categories: [Python, Programming, Automation]
 tags: [Gemini 1.5 Pro, Google AI Studio, JSON, CSV, Data Extraction]
 ---
-
-# Something I Learned About Python This Week
 # Something I Learned About Python This Week
 
 <p style="display: flex; align-items: center; gap: 20px;">
