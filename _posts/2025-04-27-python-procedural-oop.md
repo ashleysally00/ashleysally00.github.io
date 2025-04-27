@@ -94,4 +94,4 @@ By understanding both approaches, you can choose the right one based on the comp
 
 Have you used Python procedurally or with OOP? Share your experiences in the comments!
 
-**Note**: I am now going to try enabling comments in my GitHub blog using Utterances!
+**Note**: I am now going to try enabling comments in my GitHub blog using Utterances! I am attempting to make this into a standard blog format, little by little! Thanks
