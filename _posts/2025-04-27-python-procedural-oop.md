@@ -7,12 +7,13 @@ tags: [Gemini 1.5 Pro, Google AI Studio, JSON, CSV, Data Extraction]
 ---
 
 # Something I Learned About Python This Week
+# Something I Learned About Python This Week
 
 <p style="display: flex; align-items: center; gap: 20px;">
   <span style="flex: 1;">
     I started building with Python by learning it from online tutorials and hands-on projects. But my learning had gaps. Recently, while automating a script, I started to notice something I hadn’t realized about Python before: it’s not just object-oriented. Then, I looked it up!
   </span>
-  <img src="./PythonPostDes.png" alt="Illustration of two computers with Python logo and code on screens" style="width: 300px; border-radius: 8px;">
+  <img src="./image-folder/PythonPostDes.png" alt="Illustration of two computers with Python logo and code on screens" style="width: 300px; border-radius: 8px;">
 </p>
 
 If, like me, you learned Python mostly through tutorials and projects, you might have noticed that Python shares loops and other features with JavaScript. Why is this? Most programming languages need ways to repeat actions, like using loops, to make code more efficient. But here's what I didn't know—loops aren't only part of object-oriented programming (OOP). They're also used in procedural programming. Python isn’t just object-oriented—it can be procedural too.
